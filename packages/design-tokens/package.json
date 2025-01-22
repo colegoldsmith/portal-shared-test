@@ -1,0 +1,6 @@
+{
+  "name": "@astra/design-tokens",
+  "exports": {
+    ".": "./index.ts"
+  }
+}

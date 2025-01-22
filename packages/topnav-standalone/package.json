@@ -1,0 +1,17 @@
+{
+  "name": "@astra/topnav-standalone",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./dist/topnav-standalone.js"
+  },
+  "publishConfig": {
+    "@astra:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "build": "tsc -b && vite build",
+    "lint": "eslint ./src",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  }
+}
