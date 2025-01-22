@@ -1,8 +1,8 @@
 {
-  "name": "@riptano/mui-themes",
+  "name": "@colegoldsmith/mui-themes",
   "version": "0.0.0",
   "type": "module",
-  "repository": "https://github.com/riptano/portal-shared-test.git",
+  "repository": "https://github.com/colegoldsmith/portal-shared-test.git",
   "exports": {
     ".": {
       "types": "./src/*.ts(x)",
